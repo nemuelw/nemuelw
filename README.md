@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![](https://github-readme-activity-graph.vercel.app/graph?username=nemzyxt&bg_color=0a0a0a&color=05e173&line=1ddd70&point=0de761&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![contribution-graph](https://github-readme-activity-graph.vercel.app/graph?username=nemzyxt&bg_color=0a0a0a&color=05e173&line=1ddd70&point=0de761&area=true&hide_border=true)
