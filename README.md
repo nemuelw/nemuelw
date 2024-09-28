@@ -1,4 +1,6 @@
-### Hi there 👋 | [![](https://visitcount.itsvg.in/api?id=Nemuel&label=%23&color=1&icon=2&pretty=true)](https://visitcount.itsvg.in)
+### Hi there 👋 
+
+[![](https://visitcount.itsvg.in/api?id=Nemuel&label=%23&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 <!--
 **nemzyxt/nemzyxt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
